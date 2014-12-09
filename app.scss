@@ -1,0 +1,15 @@
+.scrubr-container{
+	width: 100%;
+	overflow: hidden;
+	
+
+	.scrubr-menu {
+		height: 150px;
+		white-space: nowrap;
+		width: 2000px;
+
+		* {
+			white-space: nowrap;
+		}
+	}
+}
